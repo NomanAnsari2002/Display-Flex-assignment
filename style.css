@@ -1,0 +1,58 @@
+
+body{
+    
+    background-color: rgba(205, 211, 199, 0.616);
+}
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+figure{
+   color: rgb(241, 235, 226);
+    border: 2px solid rgb(26, 26, 146);
+    padding: 0px;
+    margin: 5px;
+    background-color: rgb(228, 154, 16);
+    text-align: center;
+    font-size: 25px;
+
+}
+figcaption{
+    background-color: rgb(55, 196, 221);
+    color: white;
+
+}
+.container2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;    
+}
+.item5{
+    flex-basis: 523px;
+}
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;    
+}
+.item8{
+    flex-basis: 823px;
+}
+.container4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+.item11{
+    flex-basis: 823px;
+}
+.container5{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+.item13{
+    flex-basis: 523px;
+}
+
